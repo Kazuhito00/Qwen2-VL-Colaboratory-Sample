@@ -1,6 +1,8 @@
 # Qwen2-VL-Colaboratory-Sample
 Colaboratory上で[QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL)をお試しするサンプルです。<bR>
 
+![image](https://github.com/user-attachments/assets/7b314942-ff51-4463-8d95-a1c36a839de2)
+
 # Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Qwen2-VL-Colaboratory-Sample/blob/main/Qwen2-VL-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。
