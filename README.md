@@ -8,5 +8,10 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 Qwen2-VL-Colaboratory-Sample is under [Apache-2.0 license](LICENSE).
 
+# License(Image, Video,)
+サンプル実行用に格納している画像などは以下を利用しています。
+* [ぱくたそ](https://www.pakutaso.com)様：[成子天神下交差点前](https://www.pakutaso.com/20240848233post-52002.html)
+* [NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)様：「[コアラ初来日](https://www2.nhk.or.jp/archives/movies/?id=D0002080144_00000)」
+  
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
